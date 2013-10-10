@@ -1,0 +1,26 @@
+{
+  "name": "qrdemo",
+  "version": "0.0.1",
+  "description": "Demo usage of the qr npm module",
+  "main": "qrdemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/detj/qrdemo.git"
+  },
+  "keywords": [
+    "qr",
+    "demo",
+    "qrcode"
+  ],
+  "author": "Debjeet Biswas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/detj/qrdemo/issues"
+  },
+  "dependencies": {
+    "qr": "~0.2.0"
+  }
+}
